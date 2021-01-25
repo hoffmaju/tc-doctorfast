@@ -6,6 +6,10 @@ This is the frontend of the web app.
 ## Prerequisites
 * nodejs [official website](https://nodejs.org/en/) - nodejs includes [npm](https://www.npmjs.com/) (node package manager)
 
+## Getting Started
+
+To get you started you can simply clone the [tc-doctorfast-frontend](hhttps://github.com/hoffmaju/tc-doctorfast/) repository and install all its dependencies:
+
 ## Setup (before first run)
 
 Go to your project root folder via command line
