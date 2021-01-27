@@ -31,5 +31,5 @@ npm start
 ```
 
 Now you can open the personalized links from the email.
-* [Anterior Cruciate Ligament Tear](http://18.222.249.63:3000/appointment/600283cb699e2661d67a13d3/60027ed6699e2661d67a13d1)
-* [Covid-19 vaccine - with mRNA vaccine](http://18.222.249.63:3000/appointment/600283cb699e2661d67a13d3/60027f1c699e2661d67a13d2)
+* [Anterior Cruciate Ligament Tear](https://localhost:3000/appointment/600283cb699e2661d67a13d3/60027ed6699e2661d67a13d1)
+* [Covid-19 vaccine - with mRNA vaccine](https://localhost:3000/appointment/600283cb699e2661d67a13d3/60027f1c699e2661d67a13d2)
